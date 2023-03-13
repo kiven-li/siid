@@ -1,4 +1,4 @@
-module github.com/sandwich-go/siid
+module github.com/kiven-li/siid
 
 go 1.16
 
